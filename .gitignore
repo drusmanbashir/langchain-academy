@@ -139,6 +139,12 @@ lc-academy-env/
 .spyderproject
 .spyproject
 
+# Generated local LangGraph Studio state and scratch notebooks
+.langgraph_api/
+**/.langgraph_api/
+Untitled.ipynb
+**/Untitled.ipynb
+
 # Rope project settings
 .ropeproject
 
